@@ -1,0 +1,12 @@
+{
+	"id"		: "104607228",
+	"title"		: "Fire Extinguisher",
+	"type"		: "Weapon",
+	"tags"		: [ "realism", "water" ],
+	"ignore"	: [
+		"models_src/*",
+		"*.bat",
+		"*.code-workspace",
+		"*.md"
+	]
+}
